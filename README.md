@@ -1,4 +1,4 @@
-# =Text-Classification-using-Naive-Bayes
+# =Text-Classification-using-Naive-Bayes-Classifier
 This project is about classification of given text using naive bayes classifictaion algorithm. There are two columns in the data namely Review and Freshness.
 In the Review column there will be one review and in the Freshness column there will class of the review i.e the review is "Fresh" or "Rotten". Our task is to build a classifier and predict the class of the review.
 To achieve this we used Bayes theorem formula for calculating probability of each class given the review and classify as the class which has the highest probabilty.
